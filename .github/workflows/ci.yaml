@@ -19,6 +19,6 @@ jobs:
           git --version
           git branch
           git log
-          git brsanh feature/index-page
+          git branch feature/index-page
           git switch feature/index-page
           mkdir ./.github/workflows
