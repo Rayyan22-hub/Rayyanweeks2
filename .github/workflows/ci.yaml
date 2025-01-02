@@ -21,6 +21,4 @@ jobs:
           git log
           git branch feature/index-page
           git switch feature/index-page
-          mkdir ./.github/workflows
-          touch ./.github/workflows/ci.yaml
           
